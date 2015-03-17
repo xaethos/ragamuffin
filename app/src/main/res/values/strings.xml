@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ragamuffin</string>
+    <string name="title_activity_daemon_ctrl">DaemonCtrlActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
